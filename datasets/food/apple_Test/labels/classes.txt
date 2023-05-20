@@ -1,0 +1,3 @@
+Bad_apple
+Good_apple
+Ordinary_apple
